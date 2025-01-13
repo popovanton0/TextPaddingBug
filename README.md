@@ -1,6 +1,6 @@
 # 🐞 Text Padding Bug
 
-Replication of the bug in Jetpack Compose related to text rendering.
+Replication of [the bug](https://issuetracker.google.com/issues/389707025) in Jetpack Compose related to text rendering.
 
 ### Screenshots
 
