@@ -2,11 +2,11 @@
 
 Replication of the bug in Jetpack Compose related to text rendering.
 
-### Video
-[TextPaddingBug Demo.mp4](media/TextPaddingBug%20Demo.mp4)
-
 ### Screenshots
 
 | No bug                                              | Bug                                             |
 |-----------------------------------------------------|-------------------------------------------------|
 | ![NoTextPaddingBug.png](media/NoTextPaddingBug.png) | ![TextPaddingBug.png](media/TextPaddingBug.png) |
+
+### Video
+https://github.com/user-attachments/assets/77607416-2150-4a05-9252-ed28677d486c
